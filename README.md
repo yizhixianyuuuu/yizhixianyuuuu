@@ -1,3 +1,12 @@
-𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝑖𝑠 𝑛𝑜𝑡 𝑎 𝑝𝑟𝑜𝑐𝑐𝑒𝑠𝑠, 𝑖𝑡𝑠 𝑎 𝑠𝑡𝑎𝑡𝑒 𝑢𝑛𝑡𝑖𝑙 𝑦𝑜𝑢 𝑔𝑒𝑡 𝑝𝑤𝑛𝑒𝑑.
+# HI！你好👋
 
-By Sin ^_^
+这里是 yizhixianyuuuu ，一位高中生（在读），喜欢技术，希望使用一些技术使生活更加便捷
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yizhixianyuuuu&show_icons=true&theme=dark&count_private=true)
+
+## 我能做什么
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yizhixianyuuuu&theme=dark&layout=compact)
+
+## 兴趣爱好和性格
+`Furry`  `Music`  `ISFP`  `IT`
